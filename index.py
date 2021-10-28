@@ -1,3 +1,13 @@
+# |=============================================|
+# |           M4TH3US M414 4LV4R3Z              | 
+# |=============================================|
+# | PROPOSTA : JOGO DA VELHA                    |
+# | FEITO POR: MATHEUS MAIA ALVAREZ             |
+# | GITHUB: https://github.com/MatheusAlvarez   |
+# | CONTATO: (11)99423-7418                     |
+# |=============================================|
+
+
 # Importar pacote com as funções
 from jogo_da_velha import criarBoard, fazMovimento,  getInputValido, \
                             printBoard, verificaGanhador,  verificaMovimento
